@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color:rgb(163, 191, 245);
+}
+
+.container{
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.header{
+    margin: 60px 0 30px 0;
+    text-align: center;
+    padding: 20px;
+    border-radius:10px;
+    color:#ebebeb ;
+}
+
+.header, .title, .description{
+    background-color: #707070;
+}
+
+.content{
+    padding: 25px;
+    border-radius:10px;
+    border: 8px solid #000;
+}
